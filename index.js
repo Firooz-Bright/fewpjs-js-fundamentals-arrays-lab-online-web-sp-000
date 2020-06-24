@@ -14,7 +14,6 @@ prepend.unshift('Odie')
 removeLast.pop;
 
 
-function removeFirst(){
-  pet.shift
-}
+
+removeFirst.shift
 
