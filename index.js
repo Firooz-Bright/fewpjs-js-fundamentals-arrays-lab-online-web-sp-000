@@ -5,7 +5,7 @@ const removeLast=['Millo','Otis','Garfield'];
 const removeFirst=['Millo','Otis','Garfield'];
 
 
-apend.push('Odie')
+append.push('Odie')
 
 
 pet.unshift('Odie')
