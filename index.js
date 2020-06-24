@@ -2,9 +2,14 @@
 const pet =['Millo','Otis','Garfield'];
 
 function append(){
-append.push('Odie');
-};
-prepend.unshift('Odie');
-removeLast.pop;
+pet.push('Odie');
+}
+function prepend(){
+pet.unshift('Odie');
+}
+function removeLast(){
+pet.pop;
+}
+function
 removeFirst.shift;
 
