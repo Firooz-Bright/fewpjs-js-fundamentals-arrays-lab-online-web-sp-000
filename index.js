@@ -8,7 +8,7 @@ const removeFirst=['Millo','Otis','Garfield'];
 append.push('Odie')
 
 
-pet.unshift('Odie')
+prepend.unshift('Odie')
 
 function removeLast(){
 pet.pop;
