@@ -10,6 +10,5 @@ pet.unshift('Odie');
 function removeLast(){
 pet.pop;
 }
-function
-removeFirst.shift;
+functio removeFirst().shift;
 
