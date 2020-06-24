@@ -10,9 +10,9 @@ append.push('Odie')
 
 prepend.unshift('Odie')
 
-function removeLast(){
-pet.pop;
-}
+
+removeLast.pop;
+
 
 function removeFirst(){
   pet.shift
